@@ -1,3 +1,12 @@
 name: aposhtol
 markdown: kramdown
 remote_theme: thelehhman/plainwhite-jekyll
+plainwhite:
+  name: Ante Brozović
+  tagline: Data Scientist
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: aposhtol
+    github: aposhtol
+    linkedIn: in/aposhtol # format: locale/username

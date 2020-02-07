@@ -20,11 +20,11 @@ plainwhite:
   # generate social links in footer
   social_links:
     # twitter: aposhtol
+    facebook: aposhtol
     github:  aposhtol
     linkedIn: in/aposhtol
     rss: rss
     # dribbble: jekyll
-    facebook: aposhtol
     # flickr:   jekyll
     # instagram: jekyll
     # linkedin: jekyll
